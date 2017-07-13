@@ -13,6 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        print("Save the cheerleader, Save the world")
+        
+        
     }
 
     override func didReceiveMemoryWarning() {
